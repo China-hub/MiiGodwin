@@ -1,0 +1,112 @@
+hr {
+  border-color: grey;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 8px;
+  width: 10%;
+
+}
+
+h1 { background-color: gold; color: blue;
+  font-family: 'Sacramento', cursive; word-spacing: normal; font-size: 40px;
+   width: 500px;
+  margin: 60px 400px 40px;
+   }
+
+h2 { color:#11999E;
+  font-size: 2.8rem;
+  font-family: sans-serif;
+
+}
+
+
+body{
+  background-color:#a3d2ca;
+  text-align: center;
+  font-family: sans-serif;
+  font-family: 'Roboto', sans-serif;
+  margin:0px;
+
+}
+
+
+.first {
+  height: 370px;
+  width: 370px;
+  margin:50px;
+
+}
+
+
+
+.first-container {
+ background-color: #999b84;
+ padding-bottom:50px;
+ line-height: 2;
+
+ }
+
+.second-container{
+  background-color: #968c83;
+  line-height: 2;
+
+
+
+}
+
+.thirt-container {
+  background-color: gold;
+
+
+}
+.last-container{
+  background-color:red; color: blue;
+  margin-left:20px;
+  height: 100px;
+width: 100px;
+position:fixed;
+top: 200px;
+}
+.next-container{
+  background-color:gold; color: blue;
+  margin-left:120px;
+  height: 100px;
+  width: 100px;
+  position:fixed;
+  top: 300px;
+  }
+
+.first-picture{
+  position:absolute;
+  height:300px;
+  width:300px;
+  padding-left:600px;
+  padding-bottom:300px;
+
+}
+
+.top-picture {
+  height: 300px;
+  width: 300px;
+  padding-top:50px;
+}
+.middle-picture {
+  height: 300px;
+  width: 300px;
+  padding-top:50px;
+
+}
+.bottom-picture {
+  height: 300px;
+  width: 300px;
+
+}
+.foot-link{
+  color: green;
+
+}
+.rose-img {
+
+  
+  float: right;
+}
